@@ -1,9 +1,9 @@
-Package: com.34306.banned
+Package: com.revokeasi.banned
 Name: banned
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Huy Nguyen
-Author: Huy Nguyen
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Description: A skidded tweak by a dumb fuck!
+Maintainer: revokeasi
+Author: revokeasi
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
