@@ -1,9 +1,9 @@
-Package: com.revokeasi.banned
+Package: com.34306.banned
 Name: banned
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm64
-Description: A skidded tweak by a dumb fuck!
-Maintainer: revokeasi
-Author: revokeasi
+Description: Bans you from using Settings.
+Maintainer: 34306
+Author: 34306
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
