@@ -1,3 +1,3 @@
 # banned-rootless
-shitty attempt for a root(less) version 
-only tested on 14.0 and 16.5, anything else is untested
+this one just puts your device in a respring loop, nothing special.
+i do not recommend installing this however, unless you hate yourself THAT much.
