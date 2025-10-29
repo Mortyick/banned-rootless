@@ -1,9 +1,9 @@
-Package: com.34306.banned
+Package: com.mortyick.banned
 Name: banned
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm64
-Description: Bans you from using Settings.
-Maintainer: 34306
-Author: 34306
+Description: Respring loops you.
+Maintainer: Mortyick
+Author: Mortyick
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
